@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Lucas Leone 😄
 
-🚀
-
 ### Tecnologias utilizadas
 - HTML
 - CSS

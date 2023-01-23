@@ -1,5 +1,9 @@
 ## Olá! Eu sou o Lucas Leone 😄
 
+## Ultimo projeto 
+ <a href="https://lcsleone.github.io/projeto-HTML/">Veja aqui</a>
+ <img src="./tela.gif" alt="gif da tela inicial do projeto xyz">
+
 ### Tecnologias utilizadas
 - HTML
 - CSS

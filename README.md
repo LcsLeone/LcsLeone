@@ -2,7 +2,7 @@
 
 ## Ultimo projeto 
  <a href="https://lcsleone.github.io/projeto-HTML/">Veja aqui</a>
- <img src="./tela.gif" alt="gif da tela inicial do projeto xyz">
+ <img src="./mario.png" alt="Projeto Super Mario">
 
 ### Tecnologias utilizadas
 - HTML
